@@ -2,7 +2,7 @@
 ## Deskripsi Project
 
 - Dataset yang digunakan merupakan dataset flower-recognition yang diambil dari platform kaggle. Dataset berisi hampir 4.000 gambar yang terbagi ke dalam 5 kategori yaitu daisy, dandelion, rose, sunflower, tulip. Data disimpan di dalam folder dataset di direktori root dari program utama, akan tetapi dataset dimasukkan ke dalam file .gitignore sehingga tidak di-push ke repository.
-![WhatsApp Image 2024-06-11 at 21 56 11_79650e3c](https://github.com/Rosita-Dian-Febriyanti/klasifikasi_bunga/assets/146058025/0a5abf90-a135-467e-bdef-e6839180976a)
+![WhatsApp Image 2024-06-11 at 21 56 12_3cbe0d16](https://github.com/Pawit-Widiyantoro/flower-classification/assets/146058025/b785cff9-0a1f-4ca1-879a-14bf18f6b61f)
 
 - Data kemudian diload ke dalam program menggunakan file data.py yang disimpan di folder utils.
 - Model disimpan di file utama yaitu main.py.
