@@ -11,7 +11,7 @@
 - Feature recognition/pengenalan ciri bertujuan untuk mengambil fitur yang memiliki pengaruh besar atau penting terhadap keseluruhan data. Proses ini dilakukan pada pooling layer dan fully connected layer.
 - Model yang digunakan dibangun secara manual dengan menambahkan layer konvolusi dan dropout ke arsitektur CNN yang telah dibagikan sebelumnya. Training hanya dilakukan dalam 10 epoch mengingat banyaknya jumlah data yang diproses.
 - Proses evaluasi menunjukkan dari 10 epoch yang dijalankan, model berhasil belajar dengan baik jika dilihat dari nilai loss tiap epoch nya yang semakin menurun. Nilai akurasi setiap epoch juga semakin meningkat. Hal ini menunjukkan jika epoch ditambah, maka terdapat kemungkinan nilai akurasi yang didapat menjadi lebih tinggi.
-![image](https://github.com/Rosita-Dian-Febriyanti/klasifikasi_bunga/assets/146058025/754b57d4-a941-408d-8af6-ceba6d6b3fa4)
+![image](https://github.com/Pawit-Widiyantoro/flower-classification/assets/146058025/4cb1e189-cbf6-4844-8c3e-fede7c8ebee3)
 
 ## Anggota Kelompok 
 1. Pawit Widiyantoro        (21102184)
