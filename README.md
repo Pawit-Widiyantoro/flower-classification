@@ -19,6 +19,7 @@
 
 ## Kontribusi Anggota
 1. Pawit Widiyantoro        (21102184)
-   - Membuat program 
+   - Membuat program untuk klasifikasi bunga
 3. Rosita Dian Febriyanti   (21102186)
    - Mencari dataset
+   - Membantu pembuatan program
